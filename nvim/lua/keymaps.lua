@@ -45,4 +45,9 @@ vim.api.nvim_create_autocmd('TextYankPost', {
   end,
 })
 
+-- [[ Custom Commands ]]
+
+-- Open Netrw easily
+vim.keymap.set('n', '<leader>jf', vim.cmd.Ex)
+
 -- vim: ts=2 sts=2 sw=2 et
