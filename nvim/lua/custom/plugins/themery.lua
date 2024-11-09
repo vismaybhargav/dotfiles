@@ -23,6 +23,10 @@ return {
           name = 'TokyoNight Storm',
           colorscheme = 'tokyonight-storm',
         },
+        {
+          name = 'Arctic (VSCode Lookalike)',
+          colorscheme = 'arctic',
+        },
       },
       livePreview = true,
     }
