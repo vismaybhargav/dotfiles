@@ -27,6 +27,10 @@ return {
           name = 'Arctic (VSCode Lookalike)',
           colorscheme = 'arctic',
         },
+        {
+          name = 'Adwaita',
+          colorscheme = 'adwaita',
+        },
       },
       livePreview = true,
     }
