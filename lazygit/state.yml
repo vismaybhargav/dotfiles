@@ -1,0 +1,24 @@
+lastupdatecheck: 0
+recentrepos:
+    - /Users/vismayb/dotfiles
+    - /Users/vismayb/Projects/FRC/FRC2025
+    - /Users/vismayb/Projects/Mocha
+    - /Users/vismayb/Projects/FRC2025
+    - /Users/vismayb/Projects/gosnake
+    - /Users/vismayb/Projects/nextjs-dashboard
+    - /Users/vismayb/Projects/FRC/FRC2024-Offseason
+    - /Users/vismayb/Projects/hecto
+    - /Users/vismayb/Projects/nite-website
+startuppopupversion: 5
+lastversion: 0.43.1
+customcommandshistory:
+    - q
+    - ""
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+renamesimilaritythreshold: 50
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
