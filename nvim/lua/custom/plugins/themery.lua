@@ -31,6 +31,10 @@ return {
           name = 'Adwaita',
           colorscheme = 'adwaita',
         },
+        {
+          name = 'Gruber Darker',
+          colorscheme = 'gruber-darker',
+        },
       },
       livePreview = true,
     }
