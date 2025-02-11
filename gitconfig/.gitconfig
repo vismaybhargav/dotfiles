@@ -1,0 +1,22 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = Vismay Bhargav
+	email = 122339161+vismaybhargav@users.noreply.github.com
+[pager]
+	log = false
+	branch = false
+	stash = false
+[core]
+	pager = delta
+[interactive]
+	diffFilter = delta --color-only
+[delta]
+	navigate = true
+	line-numbers = true
+
+[merge]
+	conflictstyle = zdiff3
