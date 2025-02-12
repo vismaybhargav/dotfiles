@@ -17,6 +17,7 @@
 [delta]
 	navigate = true
 	line-numbers = true
+	hunk-header-decoration-style = none
 
 [merge]
 	conflictstyle = zdiff3
