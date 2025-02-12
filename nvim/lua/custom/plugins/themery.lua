@@ -35,6 +35,22 @@ return {
           name = 'Gruber Darker',
           colorscheme = 'gruber-darker',
         },
+        {
+          name = 'Monokai',
+          colorscheme = 'monokai',
+        },
+        {
+          name = 'Monokai Pro',
+          colorscheme = 'monokai_pro',
+        },
+        {
+          name = 'Monokai Soda',
+          colorscheme = 'monokai_soda',
+        },
+        {
+          name = 'Monokai Ristretto',
+          colorscheme = 'monokai_ristretto',
+        },
       },
       livePreview = true,
     }
