@@ -1,23 +1,28 @@
-lastupdatecheck: 0
+lastupdatecheck: 1739844319
 recentrepos:
     - /Users/vismayb/dotfiles
+    - /Users/vismayb/projects/sleepytodo
+    - /Users/vismayb/Projects/BTDClone
     - /Users/vismayb/Projects/FRC/DriverTrainingMAXSwerve
+    - /Users/vismayb/Projects/FRC/FRC-Command-Based-Example
     - /Users/vismayb/Projects/FRC/FRC2025
+    - /Users/vismayb/Projects/nite-website
     - /Users/vismayb/Projects/Mocha
     - /Users/vismayb/Projects/FRC2025
     - /Users/vismayb/Projects/gosnake
     - /Users/vismayb/Projects/nextjs-dashboard
     - /Users/vismayb/Projects/FRC/FRC2024-Offseason
     - /Users/vismayb/Projects/hecto
-    - /Users/vismayb/Projects/nite-website
 startuppopupversion: 5
-lastversion: 0.43.1
+lastversion: 0.46.0
 customcommandshistory:
     - q
+    - git fetch
+    - fetch
     - ""
 hidecommandlog: false
 ignorewhitespaceindiffview: false
-diffcontextsize: 3
+diffcontextsize: 22
 renamesimilaritythreshold: 50
 localbranchsortorder: recency
 remotebranchsortorder: alphabetical
