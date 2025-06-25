@@ -51,6 +51,34 @@ return {
           name = 'Monokai Ristretto',
           colorscheme = 'monokai_ristretto',
         },
+        {
+          name = 'XCode',
+          colorscheme = 'xcode',
+        },
+        {
+          name = 'XCode Light',
+          colorscheme = 'xcodelight',
+        },
+        {
+          name = 'Darcula',
+          colorscheme = 'darcula-dark',
+        },
+        {
+          name = 'Rose Pine',
+          colorscheme = 'rose-pine',
+        },
+        {
+          name = 'Rose Pine',
+          colorscheme = 'rose-pine',
+        },
+        {
+          name = 'Rose Pine',
+          colorscheme = 'rose-pine',
+        },
+        {
+          name = 'Rose Pine',
+          colorscheme = 'rose-pine',
+        },
       },
       livePreview = true,
     }
