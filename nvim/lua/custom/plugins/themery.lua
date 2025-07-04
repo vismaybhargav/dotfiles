@@ -53,7 +53,7 @@ return {
         },
         {
           name = 'XCode',
-          colorscheme = 'xcode',
+          colorscheme = 'xcodedark',
         },
         {
           name = 'XCode Light',
@@ -62,18 +62,6 @@ return {
         {
           name = 'Darcula',
           colorscheme = 'darcula-dark',
-        },
-        {
-          name = 'Rose Pine',
-          colorscheme = 'rose-pine',
-        },
-        {
-          name = 'Rose Pine',
-          colorscheme = 'rose-pine',
-        },
-        {
-          name = 'Rose Pine',
-          colorscheme = 'rose-pine',
         },
         {
           name = 'Rose Pine',
