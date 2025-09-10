@@ -1,4 +1,4 @@
-theme = RetroLegends
+theme = dark:xcodedark,light:xcodelight
 
 font-family = Lilex
 font-style = Medium

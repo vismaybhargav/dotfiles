@@ -1,7 +1,9 @@
 lastupdatecheck: 1739844319
 recentrepos:
-    - /Users/vismayb/Projects/BlueJ-Greenfoot
     - /Users/vismayb/dotfiles
+    - /Users/vismayb/Projects/tinomc/tinomc-frontend
+    - /Users/vismayb/Projects/glyf/simple-canny
+    - /Users/vismayb/Projects/BlueJ-Greenfoot
     - /Users/vismayb/projects/sleepytodo
     - /Users/vismayb/Projects/BTDClone
     - /Users/vismayb/Projects/FRC/DriverTrainingMAXSwerve
@@ -10,10 +12,8 @@ recentrepos:
     - /Users/vismayb/Projects/nite-website
     - /Users/vismayb/Projects/Mocha
     - /Users/vismayb/Projects/FRC2025
-    - /Users/vismayb/Projects/gosnake
     - /Users/vismayb/Projects/nextjs-dashboard
     - /Users/vismayb/Projects/FRC/FRC2024-Offseason
-    - /Users/vismayb/Projects/hecto
 startuppopupversion: 5
 lastversion: 0.46.0
 customcommandshistory:
