@@ -1,4 +1,4 @@
-theme = dark:xcodedark,light:xcodelight
+theme = dark:"Xcode Dark",light:"Xcode Light"
 
 font-family = Lilex
 font-style = Medium

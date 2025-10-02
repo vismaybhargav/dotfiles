@@ -21,7 +21,7 @@ customcommandshistory:
     - git fetch
     - fetch
     - ""
-hidecommandlog: false
+hidecommandlog: true
 ignorewhitespaceindiffview: false
 diffcontextsize: 22
 renamesimilaritythreshold: 50
