@@ -67,6 +67,10 @@ return {
           name = 'Rose Pine',
           colorscheme = 'rose-pine',
         },
+        {
+          name = 'Tairiki Night',
+          colorscheme = 'tairiki',
+        },
       },
       livePreview = true,
     }
