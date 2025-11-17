@@ -71,6 +71,10 @@ return {
           name = 'Tairiki Night',
           colorscheme = 'tairiki',
         },
+        {
+          name = 'Fleet',
+          colorscheme = 'fleet',
+        },
       },
       livePreview = true,
     }
