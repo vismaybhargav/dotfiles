@@ -75,6 +75,14 @@ return {
           name = 'Fleet',
           colorscheme = 'fleet',
         },
+        {
+          name = 'Oxocarbon',
+          colorscheme = 'oxocarbon',
+        },
+        {
+          name = 'VSCode (Actual)',
+          colorscheme = 'vscode',
+        },
       },
       livePreview = true,
     }
